@@ -1,4 +1,4 @@
-<h1 align="center">| Desafio | Calculadora | Proz | Python | </h1>
+<h1 align="center">| Desafio | Calculadora - Proz | Python | </h1>
 
 
 <p align="center"> <a https://talentocloud.joyclass.com" target="_blank">Proz</a> - Python - <a href="https://www.dio.me/users/vteider" target="_blank">Skill</a>
